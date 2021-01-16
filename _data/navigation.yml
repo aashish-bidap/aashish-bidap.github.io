@@ -1,11 +1,13 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "About"
+    url: /about/
+  - title: "Data Science Projects"
+    url: /data-science/
+  - title: "HackerRank"
+    url: https://www.hackerrank.com/ashubidap
+  - title: "Tableau"
+    url: https://public.tableau.com/profile/ashishbidap#!/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
