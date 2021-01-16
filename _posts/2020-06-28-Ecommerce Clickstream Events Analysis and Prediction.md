@@ -3,9 +3,9 @@ layout: single
 title: "Ecommerce Clickstream Events Analysis and Prediction"
 #date: 2020-06-28
 #tags: [Predictive Modeling, Binary Text Classification,Clickstream Data,Data Trends]
-classes: wide
 header:
   overlay_image: "/images/overlay.jpg"
+classes: wide
 #excerpt: "R programming:Exploratory Data Analysis,Descriptive Analysis,Predictive Analysis(Classification):Stepwise Logit Regression-Decision Tree-Random Forest Modeling,Data Visualization:ggplot2"
 mathjax: "true"
 ---
