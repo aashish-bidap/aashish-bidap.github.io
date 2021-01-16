@@ -4,7 +4,7 @@ title: "Real Time Twitter Data Analysis Pipeline"
 #date: 2020-08-15
 #tags: [data wrangling, data science, messy data]
 header:
-  image: "/images/overlay.png"
+  image: "/images/overlay.jpg"
 classes: wide
 #excerpt: "R programming:Exploratory Data Analysis,Descriptive Analysis,Predictive Analysis(Classification):Stepwise Logit Regression-Decision Tree-Random Forest Modeling,Data Visualization:ggplot2"
 mathjax: "true"

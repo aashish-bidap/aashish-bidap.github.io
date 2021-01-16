@@ -3,10 +3,10 @@ layout: single
 title: "Ecommerce Clickstream Events Analysis and Prediction"
 #date: 2020-06-28
 tags: [Predictive Modeling, Binary Text Classification,Clickstream Data,Data Trends]
+classes: wide
 header:
   overlay_image: "/images/overlay.jpg"
-classes: wide
-mathjax: "true"
+
 ---
 ## Description
 With a sequence of clickstream events performed by a user on an e commerce website, following are the business outcomes which we addressed.<br>
