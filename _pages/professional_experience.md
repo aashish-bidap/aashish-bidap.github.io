@@ -9,7 +9,6 @@ classes: wide
 #footer:
   #image: "/images/zakim.jpg"
 ---
-
 ## 🏢 Professional Experience
 
 ## Data Analytics Intern ( Lopa Inc ) : Sept 2020 - Present
