@@ -1,8 +1,7 @@
 ---
-layout: single
-permalink:/about/
 title: "About"
-author_profile:true
+permalink: /about/
+author_profile: true
 header:
     overlay_image: /images/overlay.jpg
 classes: wide
