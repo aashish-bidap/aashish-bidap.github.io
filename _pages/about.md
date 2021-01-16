@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "About"
 permalink: /about/
+title: "About"
 author_profile:true
 header:
     overlay_image: /images/overlay.jpg

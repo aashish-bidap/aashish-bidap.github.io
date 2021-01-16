@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Experience"
 permalink: /professional-experience/
+title: "Experience"
 author_profile:true
 header:
     overlay_image: /images/overlay.jpg
