@@ -97,7 +97,7 @@ author:
   avatar           : "/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Enthusiast"
   location         : "Harrison,NJ"
-  email            : "bidap.a@northeastern.edu"
+  #email            : "bidap.a@northeastern.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

@@ -24,7 +24,7 @@ Python (NumPy,Pandas,Tkinter,Scikitlearn,NLTK,TensorFlow, Keras),YouTube API
 Phase 1: Generating Image description
 ![picture3](/images/Caption_Generator/Picture3.png)
 
-Phase 2: Predicting the Category of the Image Description (<i>Adventure,Art & music,food,history,manufacturing,nature,Science & Technology,Sports,Travel</i>)
+Phase 2: Predicting the Category of the Image Description ( Adventure, Art & music,food, history, manufacturing, nature, Science & Technology,Sports,Travel )
 ![picture2](/images/Caption_Generator/Picture2.png)
 
 Phase 3: Building the UI
