@@ -9,9 +9,6 @@ classes: wide
   #image: "/images/zakim.jpg"
 ---
 
-<ul style="list-style-type:disc;">
-<font size="-0.5">
-
 ## Hi there 👋 
 
 - 🔭 I’m currently ...<br>
