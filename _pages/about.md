@@ -9,8 +9,8 @@ classes: wide
   #image: "/images/zakim.jpg"
 ---
 
-@settings {
-  font-size: 20;
+element {
+  font-size: 35;
 }
 
 ## Hi there 👋 
