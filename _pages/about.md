@@ -10,20 +10,25 @@ classes: wide
   #image: "/images/zakim.jpg"
 ---
 
+## Hi there 👋 <br>
+- 🔭 I’m currently ...<br>
+	- Actively looking for Full Time opportunities starting June 2021 in Data Analytics.
+	
+- :heavy_check_mark: I'm a ...<br>
+	- Data Science enthusiast with broad and in-depth statistics, programming & engineering skills, currently pursuing my Master's in Data Analytics at Northeastern University,Boston.<br>
+	- I am adept with data visualization, predictive modeling, descriptive - inferential statistics and data mining techniques and capable of implementing in-depth statistics, programming and engineering skills to interpret data to great stories.<br>
+	- Well versed with data visualization, predictive modeling, descriptive - inferential statistics and data mining techniques using R, Python and SQL.<br>
+	- 2.8 years of working experience with Accenture as Application Development Analyst I worked for a leading Canadian telecommunication company.<br>
+	- I am quick-learner with positive attitude, ready to make immediate impact.<br>
+<br>
+<br>
+<b> Let's connect if you want to collaborate, or have opportunities in data science! </b>
 
-
-<ul style="list-style-type:disc;">
-<font size="-0.5">
-<li><i>Data science enthusiast with broad and in-depth statistics, programming and engineering skills, currently pursuing my Master's in Analytics from Northeastern University,Boston.
-<li>Well versed with data visualization, predictive modeling, descriptive - inferential statistics and data mining techniques using R, Python and SQL.
-<li>2.5+ years of working experience with Accenture as Application Development Analyst I worked for a leading Canadian telecommunication company.
-<li>My primary task involved designing, developing, maintaining, and tuning new, existing reports and SQL queries and also was responsible for building complex reports and graphs for Financial Reporting using BI tool-SQL Server Reporting Services(SSRS) and ETL tool-SQL Server Integration Services (SSIS).
-<li>Working experience at Accenture helped me to inculcate skills like that of value creation, global team collaboration and effective work management with ownership.
-
-
-{% for js in page.customjs %}
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-{% endfor %}
-
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="ashish-bidap"><a class="LI-simple-link" href='https://www.linkedin.com/in/ashish-bidap?trk=profile-badge'>Ashish Bidap</a></div>
+- :computer: Tech Stack ...<br>
+    - Languages: Python, R, SQL, C++ <br>
+    - Machine Learning Concepts: Regression, Clustering, Classification, Ensemble methods, Neural Networks, Natural Language Processing <br>
+    - Libraries/Packages: numpy, pandas, tensorflow, keras, matplotlib, seaborn, plotly, beautifulsoap, nltk, scikitlearn, ggplot2,dplyr, RShiny,SHAP<br>
+    - Databases: Microsoft SQL Server, MySQL<br>
+    - Cloud: Amazon Web Services,Google Cloud Platform <br>
+    - Big Data: Apache Hadoop, Apache Hive, Apache Flume, Cloudera, Spark, Apache Parquet, PySpark, Spark SQL <br>
+    - Web Frameworks: Django, Tkinter, Streamlit
