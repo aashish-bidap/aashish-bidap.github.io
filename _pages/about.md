@@ -2,7 +2,7 @@
 layout: single
 title: "About"
 permalink: /about/
-author_profile: true
+author_profile:true
 header:
     overlay_image: /images/overlay.jpg
 classes: wide
@@ -21,7 +21,8 @@ classes: wide
 	- Well versed with data visualization, predictive modeling, descriptive - inferential statistics and data mining techniques using R, Python and SQL.<br>
 	- 2.8 years of working experience with Accenture as Application Development Analyst I worked for a leading Canadian telecommunication company.<br>
 	- I am quick-learner with positive attitude, ready to make immediate impact.<br>
-<br>
+	<br>
+	
 <b> Let's connect if you want to collaborate, or have opportunities in data science! </b>
 
 -	💻 Tech Stack ...<br>

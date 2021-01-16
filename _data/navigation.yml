@@ -4,6 +4,8 @@ main:
     url: /index.html
   - title: "About"
     url: /about/
+  - title : "Experience"
+    url: /professional-experience/
   - title: "Data Science Projects"
     url: /data-science/
   - title: "HackerRank"
