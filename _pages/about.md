@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "About"
 permalink: /about/
 author_profile: true
@@ -10,8 +11,6 @@ classes: wide
 ---
 ## Hi there 👋
 
--	🔭 I’m currently ...<br>
-	- Looking for Full Time opportunities starting June 2021 in Data Analytics.<br>
 -	🏁 I'm a ...<br>
 	- Data Science enthusiast with broad and in-depth statistics, programming & engineering skills, currently pursuing my Master's in Data Analytics at Northeastern University,Boston.<br>
 	- I am adept with data visualization, predictive modeling, descriptive - inferential statistics and data mining techniques and capable of implementing in-depth statistics, programming and engineering skills to interpret data to great stories.<br>
@@ -26,5 +25,8 @@ classes: wide
     - Cloud: Google Cloud Platform , Amazon Web Services <br>
     - Big Data: Apache Hadoop, Apache Hive, Apache Flume, Cloudera, Spark, Apache Parquet, PySpark, Spark SQL <br>
     - Web Frameworks: Django, Tkinter, Streamlit 	<br>
+-	🔭 I’m currently ...<br>
+	- Looking for Full Time opportunities starting June 2021 in Data Analytics.<br>
+
 	<br>
     <b> Let's connect if you want to collaborate, or have opportunities in data science! </b>
