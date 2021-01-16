@@ -28,7 +28,7 @@ Phase 2: Predicting the Category of the Image Description (<i>Adventure,Art & mu
 ![picture2](/images/Caption_Generator/Picture2.png)
 
 Phase 3: Building the UI
-![picture1](/imagesCaption_Generator/Picture1.png)
+![picture1](/images/Caption_Generator/Picture1.png)
 
 
 ## DEMO EXECUTION 
