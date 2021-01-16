@@ -6,9 +6,9 @@ title: "Ecommerce Clickstream Events Analysis and Prediction"
 classes: wide
 header:
   overlay_image: "/images/overlay.jpg"
+#excerpt: "R programming:Exploratory Data Analysis,Descriptive Analysis,Predictive Analysis(Classification):Stepwise Logit Regression-Decision Tree-Random Forest Modeling,Data Visualization:ggplot2"
 mathjax: "true"
 ---
-## Description
 With a sequence of clickstream events performed by a user on an e commerce website, following are the business outcomes which we addressed.<br>
 1.Predicting whether the customer would be making some purchase or not.<br>
 2.If yes what are the items that are going to be bought.<br>
