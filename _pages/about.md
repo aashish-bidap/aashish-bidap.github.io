@@ -21,4 +21,9 @@ classes: wide
 <li>Working experience at Accenture helped me to inculcate skills like that of value creation, global team collaboration and effective work management with ownership.
 
 
+{% for js in page.customjs %}
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+{% endfor %}
+
+
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="ashish-bidap"><a class="LI-simple-link" href='https://www.linkedin.com/in/ashish-bidap?trk=profile-badge'>Ashish Bidap</a></div>
