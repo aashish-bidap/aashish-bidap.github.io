@@ -1,6 +1,5 @@
 ---
 layout: single
-permalink: /about/
 title: "US Airline Market Analysis"
 #date: 2020-08-15
 #tags: [data wrangling, data science, messy data]
