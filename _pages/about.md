@@ -9,7 +9,7 @@ classes: wide
   #image: "/images/zakim.jpg"
 ---
 
-## Hi there 👋 
+## Hi there 👋
 
 - 🔭 I’m currently ...<br>
 	- Looking for Full Time opportunities starting June 2021 in Data Analytics.
