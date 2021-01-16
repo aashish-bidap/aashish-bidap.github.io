@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "About"
-permalink: /about/
 author_profile: true
 header:
     overlay_image: /images/overlay.jpg
@@ -9,6 +8,10 @@ classes: wide
 #footer:
   #image: "/images/zakim.jpg"
 ---
+
+@settings {
+  font-size: 20;
+}
 
 ## Hi there 👋 
 
@@ -29,6 +32,6 @@ classes: wide
     - Machine Learning Concepts: Regression, Clustering, Classification, Ensemble methods, Neural Networks, Natural Language Processing <br>
     - Libraries/Packages: numpy, pandas, tensorflow, keras, matplotlib, seaborn, plotly, beautifulsoap, nltk, scikitlearn, ggplot2,dplyr, RShiny,SHAP<br>
     - Databases: Microsoft SQL Server, MySQL<br>
-    - Cloud: Amazon Web Services,Google Cloud Platform <br>
+    - Cloud: Google Cloud Platform , Amazon Web Services <br>
     - Big Data: Apache Hadoop, Apache Hive, Apache Flume, Cloudera, Spark, Apache Parquet, PySpark, Spark SQL <br>
     - Web Frameworks: Django, Tkinter, Streamlit
