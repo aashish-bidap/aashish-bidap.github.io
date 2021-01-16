@@ -7,6 +7,7 @@ classes: wide
 #excerpt: "R programming:Exploratory Data Analysis,Descriptive Analysis,Predictive Analysis(Classification):Stepwise Logit Regression-Decision Tree-Random Forest Modeling,Data Visualization:ggplot2"
 mathjax: "true"
 ---
+
 ## Description
 Banks play a crucial role in market economies. They decide who can get finance and on what terms and can make or break investment decisions. For markets and society to function, individuals and companies need access to credit. Credit scoring algorithms, which make a guess at the probability of default, are the method banks use to determine whether or not a loan should be granted. This analysis focusses to improve on the state of the art in credit scoring, by predicting the probability that somebody will experience financial distress in the next two years.
 <br><br>
@@ -22,9 +23,8 @@ The goal of this analysis is to build a model that borrowers can use to help mak
 Python (scikitlearn, seaborn, pandas, numpy, matplotlib) , Jupyter Notebook ,SHAP
 
 ## XGBoost Model Intepretation
-
+<br>
 ![model](/images/give-me-some-Credit/Model_interpretation.png)
-
 <br>
 
 -  Higher the RevolvingUtilizationofUnsecuredLines higher the defaulter probability <br>
