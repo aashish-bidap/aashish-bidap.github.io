@@ -12,7 +12,7 @@ classes: wide
 ## Hi there 👋
 
 -	🏁 I'm a ...<br>
-	- Data Science enthusiast with broad and in-depth statistics, programming & engineering skills, currently pursuing my Master's in Data Analytics at Northeastern University,Boston.<br>
+	- Data Science enthusiast with in-depth statistics, programming & engineering skills, currently pursuing my Master's in Data Analytics at Northeastern University,Boston.<br>
 	- I am adept with data visualization, predictive modeling, descriptive - inferential statistics and data mining techniques and capable of implementing in-depth statistics, programming and engineering skills to interpret data to great stories.<br>
 	- Well versed with data visualization, predictive modeling, descriptive - inferential statistics and data mining techniques using R, Python and SQL.<br>
 	- 2.8 years of working experience with Accenture as Application Development Analyst I worked for a leading Canadian telecommunication company.<br>

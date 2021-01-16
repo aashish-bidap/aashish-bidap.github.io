@@ -1,15 +1,16 @@
 ---
 layout: single
-permalink:/professional-experience/
 title: "Experience"
-author_profile:true
+permalink: /professional-experience/
+author_profile: true
 header:
     overlay_image: /images/overlay.jpg
 classes: wide
 #footer:
   #image: "/images/zakim.jpg"
 ---
-# 🏢 Professional Experience
+
+## 🏢 Professional Experience
 
 ## Data Analytics Intern ( Lopa Inc ) : Sept 2020 - Present
 -	Enhancing data collection procedures to include information that is relevant for building analytic systems <br>
