@@ -22,13 +22,13 @@ Python (NumPy,Pandas,Tkinter,Scikitlearn,NLTK,TensorFlow, Keras),YouTube API
 
 ## Flow Diagram
 Phase 1: Generating Image description
-![picture1](/image/Caption_Generator/Picture3.png)
+![picture3](/images/Caption_Generator/Picture3.png)
 
 Phase 2: Predicting the Category of the Image Description (<i>Adventure,Art & music,food,history,manufacturing,nature,Science & Technology,Sports,Travel</i>)
-![picture2](/image/Caption_Generator/Picture2.png)
+![picture2](/images/Caption_Generator/Picture2.png)
 
 Phase 3: Building the UI
-![picture1](/image/Caption_Generator/Picture1.png)
+![picture1](/imagesCaption_Generator/Picture1.png)
 
 
 ## DEMO EXECUTION 
@@ -39,7 +39,7 @@ Click below on the Video
      <img 
       src="https://img.youtube.com/vi/pN-hK5NqQjk/0.jpg" 
       alt="Dashboard" 
-      style="width:100%;">
+      style="width:50%;">
       </a>
 </div>
     
