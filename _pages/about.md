@@ -9,9 +9,8 @@ classes: wide
   #image: "/images/zakim.jpg"
 ---
 
-element {
-  font-size: 35;
-}
+<ul style="list-style-type:disc;">
+<font size="-0.5">
 
 ## Hi there 👋 
 
