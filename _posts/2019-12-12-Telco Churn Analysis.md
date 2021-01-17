@@ -1,15 +1,13 @@
 ---
+layout: single
 title: "Customer Churn Prediction & Analysis for Telecom Data."
-#date: 2018-01-28
+#date: 2020-08-15
 #tags: [data wrangling, data science, messy data]
-header:
-  #image: "/images/churn/churn1.png"
+classes: wide
 excerpt: "R programming:Exploratory Data Analysis,Descriptive Analysis,Predictive Analysis(Classification):Stepwise Logit Regression-Decision Tree-Random Forest Modeling,Data Visualization:ggplot2"
 mathjax: "true"
 ---
-# Title Customer Churn Prediction for Telecom
-
-# Description
+## Description
 The objective of the project is to build a model to preedict the probability of the customer churning from the platfrom for a telecom data.<br>
 Dataset Source : This dataset is based on IBM based sample dataset obtained from Kaggle for Customer Churn.<br>
 Dimensions for the DataSet [rows vs columns]: 7043 * 21.<br>
