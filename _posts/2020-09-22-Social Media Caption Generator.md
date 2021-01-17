@@ -21,13 +21,21 @@ This project has the capability of being used by social networking platforms or 
 Python (NumPy,Pandas,Tkinter,Scikitlearn,NLTK,TensorFlow, Keras),YouTube API
 
 ## Flow Diagram
-Phase 1: Generating Image description
+Phase 1: Generating Image description <br>
+In this phase, we will be loading two sequential models using pre-trained models in Keras with Tensorflow backend. The first model will extract the features from images for which we are using the Residual Network Model. The second model is for creating word embeddings after performing Natural Language processing on the image descriptions in the trained dataset.The Flicker30k dataset was used in order to train the two sequential models.
+<br>
 ![picture3](/images/Caption_Generator/Picture3.png)
 
-Phase 2: Predicting the Category of the Image Description ( Adventure, Art & music,food, history, manufacturing, nature, Science & Technology,Sports,Travel )
+Phase 2: Predicting the Category of the Image Description <br>
+In this phase, we used the output from phase 1 to predict the category of the image to classify the image description into 9 different categories adventure, art and music, food, history, manufacturing, nature, science and technology,sports,travel. As the labelled dataset wasn't openly available , a labelled dataset was created by collecting the data using Youtube API and labelling the youtube video descriptions on different queries.
+
+<br>
 ![picture2](/images/Caption_Generator/Picture2.png)
 
 Phase 3: Building the UI
+<br>
+In this phase, a UI was built using TKinter to run the models that were built in phases 1 and 2. Post development of the UI, we also built an executable file that can be used by anyone to run this application easily. 
+<br>
 ![picture1](/images/Caption_Generator/Picture1.png)
 
 

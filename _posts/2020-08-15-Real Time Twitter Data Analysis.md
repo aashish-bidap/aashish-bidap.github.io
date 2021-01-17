@@ -47,7 +47,7 @@ Python (scikitlearn, seaborn, pandas, numpy, matplotlib,Tensorflow,Keras),Jupyte
     - $ docker-compose -f docker-compose.kafka.yml up -d <br>
   **Check the cluster is up and running (wait for "started" to show up):**<br>
     - $ docker-compose -f docker-compose.kafka.yml logs -f broker | grep "started" <br>
-  **Start the transaction generator and the fraud detector (will run in the background):**<br>
+  **Start the container **<br>
     - $ docker-compose up -d <br>
   **Create connection between Kafka and ElasticSearch:** <br>
 curl -X POST -H "Content-Type: application/json" -d '
