@@ -4,7 +4,7 @@ title: "US Airline Market Analysis"
 #date: 2020-08-15
 #tags: [data wrangling, data science, messy data]
 classes: wide
-#excerpt: "R programming:Exploratory Data Analysis,Descriptive Analysis,Predictive Analysis(Classification):Stepwise Logit Regression-Decision Tree-Random Forest Modeling,Data Visualization:ggplot2"
+excerpt: "US Airline Data,Big Data Analysis & Management,SparkSQL,Databricks"
 mathjax: "true"
 ---
 

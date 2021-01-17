@@ -4,7 +4,7 @@ title: "Real Time Twitter Data Analysis Pipeline"
 #date: 2020-08-15
 #tags: [data wrangling, data science, messy data]
 classes: wide
-#excerpt: "R programming:Exploratory Data Analysis,Descriptive Analysis,Predictive Analysis(Classification):Stepwise Logit Regression-Decision Tree-Random Forest Modeling,Data Visualization:ggplot2"
+excerpt: "Real Time ETL Data pipeline,Twitter Data Analysis,Natural Language Processing,Sentiment Analysis,Dashboard,Python"
 mathjax: "true"
 ---
 Objective of this project is to implement a real time streaming data pipeline in order to 

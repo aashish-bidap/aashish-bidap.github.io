@@ -4,7 +4,7 @@ title: "Customer Churn Prediction & Analysis for Telecom Data."
 #date: 2020-08-15
 #tags: [data wrangling, data science, messy data]
 classes: wide
-excerpt: "R programming:Exploratory Data Analysis,Descriptive Analysis,Predictive Analysis(Classification):Stepwise Logit Regression-Decision Tree-Random Forest Modeling,Data Visualization:ggplot2"
+excerpt: "Churn Predition R programming:Exploratory Data Analysis,Predictive Analysis(Binary Classification),Data Visualization"
 mathjax: "true"
 ---
 ## Description
@@ -30,7 +30,7 @@ The Data set includes information about:<br>
 - Lastly we performed random forest claasifier and we observed an accuracy of 80.07%
 
 ## Findings
-Output:
+Output:<br>
 ![png](/images/churn/Telco%20Churn%20Analysis_16_0.png)
 
 <b>1.  The data includes almost equal proportion of males and females.<br>
@@ -38,7 +38,7 @@ Output:
 <b>3.  26% of the customers have churned from the platform.
 
 
-Output:
+Output:<br>
 ![png](/images/churn/Telco%20Churn%20Analysis_18_0.png)
 
 <b>1. Almost 40% of the customers have subscribed for the Fibre optic internet service.<br>
@@ -47,7 +47,7 @@ Output:
 <b>4. 45% of the customers have no service of device protection.
 
 
-Output:
+Output:<br>
 ![png](/images/churn/Telco%20Churn%20Analysis_20_0.png)
 
 <b>1. Maximum number of customers have subscribered for electronic check for their payments.<br>
@@ -57,15 +57,15 @@ Output:
 <b>5. Almost 87% of the customers are with the phoneservice.
 
 
-Output:
+Output:<br>
 ![png](/images/churn/Telco%20Churn%20Analysis_23_0.png)
-
+<br>
 ![png](/images/churn/Telco%20Churn%20Analysis_23_1.png)
 
 <b>1. Maximum Customers churned from the platform are the one having a tenure of 0-1 years.<br>
 <b>2. Maximum Churned customers have a Monthly charge more than $65.
 
-Output:
+Output:<br>
 ![png](/images/churn/Telco%20Churn%20Analysis_26_0.png)
 
 <b>* Churn rate is equally divided among the male and female customers.<br>
@@ -75,31 +75,31 @@ Output:
 <b>* Churn rate is more with customers having electronic check as the payment mode.
 
 
-Output:
+Output:<br>
 ![png](/images/churn/Telco%20Churn%20Analysis_28_0.png)
-
+<br>
 <b>* Churn rate is more with customers having month to month contract.<br>
 <b>* Churn rate is more with customers having no online security and techsupport.<br>
-<b>* Churn rate is almost equal among the subscribers with or without the streamingtv.
+<b>* Churn rate is almost equal among the subscribers with or without the streamingtv.<br>
 
 
-Output:
+Output:<br>
 ![png](/images/churn/Telco%20Churn%20Analysis_47_1.png)
-
+<br>
 <b>With the above Logistic regression kmodel we could see an accuracy of 78% in the model.
 
-Output:
+Output:<br>
 ![png](/images/churn/Telco%20Churn%20Analysis_52_0.png)
 
 
 ****2.DECISION TREE****
 
-Output:
+Output:<br>
 ![png](/images/churn/Telco%20Churn%20Analysis_57_0.png)
 
 ***3. Random Forest Modeling***
 
-Output:
+Output:<br>
 ![png](/images/churn/Telco%20Churn%20Analysis_63_0.png)
 
 ***Accuracy Comparison for the three Models***
@@ -110,17 +110,17 @@ Output:
 
 **ROC analysis for the three Models**
 
-Output:
+Output:<br>
 ![png](/images/churn/Telco%20Churn%20Analysis_68_0.png)
 
 ***BUSINESS COST ASSUMPTION :***
 
-Output:
+Output:<br>
 ![png](/images/churn/Telco%20Churn%20Analysis_72_0.png)
 
 ***Results***
 
-<b>1.We successfully implemented three classification models in order to predict the potential churn customers. Below ROC plot compares the results of the three models , the ROC curve for Logistic model and the Random Forest model can be considered to be “good” and further comparing it with the aforementioned business cost assumptions Random Forest Model can be considered to be a best fit model.<br>
-<b>2.Based upon the descriptive analysis , a greater number of Churn customers are observed in case of customers with Tenure in between 0-1 year and with increase in the Monthly Charges there is substantial increase in the Churn Rate.<br>
-<b>3.Customer on Month to Month contract are more susceptible to Churn.<br>
-<b>4.22% of the total customers were observed with No Internet Service and thus customers are missing the exclusive services of OnlineBackup, StreamingTV, Online Security and Device Protection.
+- We successfully implemented three classification models in order to predict the potential churn customers. Below ROC plot compares the results of the three models , the ROC curve for Logistic model and the Random Forest model can be considered to be “good” and further comparing it with the aforementioned business cost assumptions Random Forest Model can be considered to be a best fit model.<br>
+- Based upon the descriptive analysis , a greater number of Churn customers are observed in case of customers with Tenure in between 0-1 year and with increase in the Monthly Charges there is substantial increase in the Churn Rate.<br>
+- Customer on Month to Month contract are more susceptible to Churn.<br>
+- 22% of the total customers were observed with No Internet Service and thus customers are missing the exclusive services of OnlineBackup, StreamingTV, Online Security and Device Protection.

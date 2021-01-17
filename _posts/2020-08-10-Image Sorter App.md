@@ -4,7 +4,7 @@ title: "Image Sorter Application"
 #date: 2020-08-15
 #tags: [data wrangling, data science, messy data]
 classes: wide
-#excerpt: "R programming:Exploratory Data Analysis,Descriptive Analysis,Predictive Analysis(Classification):Stepwise Logit Regression-Decision Tree-Random Forest Modeling,Data Visualization:ggplot2"
+excerpt: "Machine Learning,Transfer Learning,Image Processing, Python ,App Dvelopment"
 mathjax: "true"
 ---
 ## Description
