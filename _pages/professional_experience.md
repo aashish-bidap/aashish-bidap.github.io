@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "Experience"
 permalink: /professional-experience/
 author_profile: true
 classes: wide
