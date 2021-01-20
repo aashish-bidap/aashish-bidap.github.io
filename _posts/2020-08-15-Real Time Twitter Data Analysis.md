@@ -12,6 +12,8 @@ Objective of this project is to implement a real time streaming data pipeline in
 - Most retweeted Tweets 
 - Sentiment of the Tweets using Twitter data.
 
+This real-time end-to-end Twitter monitoring system is designed for the enterprises to evaluate Twitter data.As we know twitter is a great place for the real-time high-throughput data source with 6000 tweets per seconds on average, we could use it to uncover the breaking news stories, identify industry-wide trends, and take actions on time. In practice, keep tracking of all relevant Twitter content in real-time,understand the users sentiment regarding a topic,trending user tweets.
+
 ## Technology Used
 - Natural Language Processing 
 - Real Time Streaming ETL 
@@ -19,9 +21,14 @@ Objective of this project is to implement a real time streaming data pipeline in
 - Sentiment Analysis
 - Neural Networks
 
+## Sentiment Analysis 
+Before training the model all thw twitter tweets data was cleaned to remove emoticons,pucuations,usernames,retwwet keywords "RT" and further keeping only data in english language.Implemented a predictive model to classify the tweets as a positive sentiment or a negative sentiment using pre trained Google provided News corpus (3 billion running words) word vector model (3 million 300-dimension English word vectors) for converting the word embeddings because to its speed and performance. Further using the word embedding as the input data , 2 dense layer neural network and LightGBM were trained in order address the binary classification of sentiment.The neural network model outperformed with improved accuracy over LightGBM and thus was further implmeneted in the ETL dashboard.
+
+## ETL Workflow
+In order to allow the dashboard application to process records as they occur Apache Kafka was implemented as part of stream analysis. Elasticsearch for searching and filtering the tweet results and Kibana as it lets you see and interact with your data in realtime, as you’re gathering data and can be accessed directly from the browser.
+
 ## Enviornment
 Python (scikitlearn, seaborn, pandas, numpy, matplotlib,Tensorflow,Keras),Jupyter Notebook,Apache Kafka, ElasticSearch , Kibana , Docker ,Twitter API
-
 
 ## DEMO EXECUTION:
 

@@ -28,16 +28,13 @@ In this phase, we implemented two sequential models using pre-trained models in 
 
 <u> Phase 2: Predicting the Category of the Image Description </u><br>
 In this phase, we used the output from phase 1 to predict the category of the image to classify the image description into 9 different categories adventure, art and music, food, history, manufacturing, nature, science and technology,sports,travel. As the labelled dataset wasn't openly available , a labelled dataset was created by collecting the data using Youtube API and labelling the youtube video descriptions based on different queries.
-
 <br>
 ![picture2](/images/Caption_Generator/Picture2.png)
 
-<u> Phase 3: Building the UI </u>
-<br>
+<u> Phase 3: Building the UI </u><br>
 In this phase, a UI was built using TKinter to run the models that were built in phases 1 and 2. Post development of the UI, an executable file was created which can be used by anyone to run this application easily. 
 <br>
 ![picture1](/images/Caption_Generator/Picture1.png)
-
 
 ## DEMO EXECUTION 
 Click below on the Video
