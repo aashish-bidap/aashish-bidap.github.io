@@ -3,8 +3,6 @@ layout: single
 title: "Experience"
 permalink: /professional-experience/
 author_profile: true
-header:
-    overlay_image: /images/overlay.jpg
 classes: wide
 #footer:
   #image: "/images/zakim.jpg"
