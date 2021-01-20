@@ -1,12 +1,13 @@
 ---
 layout: single
+title: "Hi there 👋"
 permalink: /about/
 author_profile: true
 classes: wide
 #footer:
   #image: "/images/zakim.jpg"
 ---
-### Hi there 👋
+
 
 -	🏁 I'm a ...<br>
 	- Data Science enthusiast with in-depth statistics, programming & engineering skills, currently pursuing my Master's in Data Analytics at Northeastern University,Boston.<br>

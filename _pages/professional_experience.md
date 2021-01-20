@@ -1,5 +1,6 @@
 ---
 layout: single
+title: "🏢 Professional Experience"
 permalink: /professional-experience/
 author_profile: true
 classes: wide
@@ -7,7 +8,7 @@ classes: wide
   #image: "/images/zakim.jpg"
 ---
 
-### 🏢 Professional Experience
+
 ### Data Analytics Intern ( Lopa Inc ) : Sept 2020 - Present
 -	Enhancing data collection procedures to include information that is relevant for building analytic systems <br>
 - 	Develop automated data collection systems using Python & Google Cloud services (Google Speech to Text,Google Cloud Storage,Cloud SQL) <br>
