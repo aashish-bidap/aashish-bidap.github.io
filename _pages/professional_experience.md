@@ -23,7 +23,7 @@ classes: wide
 -	Analysed the trends in purchases, change in repeat purchase rate over years & business from new customers vs returning customers. <br>
 -	Identified the duration between the repeat purchases for a product, associations in the frequently purchased products using Apriori analysis and recommended a targeted customer list based on customer’s purchase history. <br>
 -	Built interactive dashboard with python Streamlit app framework, data visualizations using Plotly, and deployed app over Heroku. <br>
--	The results from dashboard will be further used by the marketing team to initiate targeted email campaigns.<br>
+-	The results of the <a href='https://acb-dashboard.herokuapp.com/'>Dashboard</a> will be further used by the marketing team to initiate targeted email campaigns.<br>
 	
 ### Application Development Analyst ( Accenture Solutions ) : Dec 2016 - Jul 2019
 -	Data Design and Development on Microsoft SQL Server 2012/2008 for a global Canadian Telecom client. <br>
