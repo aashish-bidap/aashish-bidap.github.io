@@ -23,9 +23,8 @@ The goal of this analysis is to build a model that borrowers can use to help mak
 Python (scikitlearn, seaborn, pandas, numpy, matplotlib) , Jupyter Notebook ,SHAP
 
 ## XGBoost Model Intepretation
-<br>
-![model](/images/give-me-some-Credit/Model_interpretation.png)
-<br>
+
+![model](/images/give-me-some-Credit/Model_interpretation.png) 
 
 -  Higher the RevolvingUtilizationofUnsecuredLines higher the defaulter probability <br>
 -  Higher the number of times the borrower has past due more is the probability of being a defaulter.<br>
