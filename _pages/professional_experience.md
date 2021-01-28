@@ -36,3 +36,4 @@ classes: wide
 -	Performed impact analysis of system jobs & implemented key performance indicators to quantify the system performance.<br>
 -	Responsible for setup and monitoring of web portal performance using Google Analytics Toolkit.<br>
 
+

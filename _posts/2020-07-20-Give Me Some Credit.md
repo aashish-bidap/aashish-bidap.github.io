@@ -24,7 +24,7 @@ Python (scikitlearn, seaborn, pandas, numpy, matplotlib) , Jupyter Notebook ,SHA
 
 ## XGBoost Model Intepretation
 
-![model](/images/give-me-some-Credit/Model_interpretation.png) 
+![model_interpretation](/images/give_me_some_Credit/Model_interpretation.png) 
 
 -  Higher the RevolvingUtilizationofUnsecuredLines higher the defaulter probability <br>
 -  Higher the number of times the borrower has past due more is the probability of being a defaulter.<br>
