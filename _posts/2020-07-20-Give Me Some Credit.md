@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "Give Me Some Credit"
+title: "Bank Loan Defaulters Prediction with Machine Learning"
 #date: 2020-08-15
 #tags: [data wrangling, data science, messy data]
 classes: wide
-excerpt: "Banking Data , Defaulter Predictions,Exploratory Data Analysis,Predictive Analysis(Classification), Python"
+excerpt: "Banking Data , Defaulter Predictions, Data Analysis,Predictive Analysis(Classification), Python"
 mathjax: "true"
 ---
 

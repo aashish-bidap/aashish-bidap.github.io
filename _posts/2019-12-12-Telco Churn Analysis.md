@@ -4,11 +4,11 @@ title: "Customer Churn Prediction & Analysis for Telecom Data."
 #date: 2020-08-15
 #tags: [data wrangling, data science, messy data]
 classes: wide
-excerpt: "Churn Predition R programming:Exploratory Data Analysis,Predictive Analysis(Binary Classification),Data Visualization"
+excerpt: "Churn Predition,R programming,Data Analysis,Predictive Analysis(Binary Classification),Data Visualization"
 mathjax: "true"
 ---
 ## Description
-The objective of the project is to build a model to preedict the probability of the customer churning from the platfrom for a telecom data.<br>
+The objective of the project is to build a model to predict the probability of the customer churning from the platfrom for a telecom data.<br>
 Dataset Source : This dataset is based on IBM based sample dataset obtained from Kaggle for Customer Churn.<br>
 Dimensions for the DataSet [rows vs columns]: 7043 * 21.<br>
 The Data set includes information about:<br>
@@ -120,7 +120,7 @@ Output:<br>
 
 ***Results***
 
-- We successfully implemented three classification models in order to predict the potential churn customers. Below ROC plot compares the results of the three models , the ROC curve for Logistic model and the Random Forest model can be considered to be “good” and further comparing it with the aforementioned business cost assumptions Random Forest Model can be considered to be a best fit model.<br>
+- We successfully implemented three classification models in order to predict the potential churn customers. Considering the compares the results aforementioned business cost assumptions Random Forest Model can be considered to be a best fit model of the three implemented models with the best accuracy.<br>
 - Based upon the descriptive analysis , a greater number of Churn customers are observed in case of customers with Tenure in between 0-1 year and with increase in the Monthly Charges there is substantial increase in the Churn Rate.<br>
 - Customer on Month to Month contract are more susceptible to Churn.<br>
 - 22% of the total customers were observed with No Internet Service and thus customers are missing the exclusive services of OnlineBackup, StreamingTV, Online Security and Device Protection.

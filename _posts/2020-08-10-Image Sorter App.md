@@ -4,7 +4,7 @@ title: "Image Sorter Application"
 #date: 2020-08-15
 #tags: [data wrangling, data science, messy data]
 classes: wide
-excerpt: "Machine Learning,Transfer Learning,Image Processing, Python ,App Dvelopment"
+excerpt: "Machine Learning,Transfer Learning,Image Processing, Python ,App Development"
 mathjax: "true"
 ---
 ## Description
