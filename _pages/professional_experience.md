@@ -27,7 +27,7 @@ classes: wide
 	
 ### Application Development Analyst ( Accenture Solutions ) : Dec 2016 - Jul 2019
 -	Data Design & Development on Microsoft SQL Server for a global Canadian Telecom client. <br>
--	Developed, & deployed data migration pipelines using SQL Server Integration Services (SSIS). <br>
+-	Developed & deployed data migration pipelines using SQL Server Integration Services (SSIS). <br>
 -	Implemented parameterized reports using SQL Server Reporting Services as part of Financial Reporting.<br>
 -	Analysed outgoing reports to identify changes in revenue information,services usage & billing validations & determined root causes of variances.<br>
 -	Automated daily,weekly & monthly financial reporting activities using Python, eliminating manual process of over 1 hour.<br>
