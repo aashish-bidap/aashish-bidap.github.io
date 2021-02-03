@@ -26,12 +26,11 @@ classes: wide
 -	The results of the <a href='https://acb-dashboard.herokuapp.com/'>Dashboard</a> will be further used by the marketing team to initiate targeted email campaigns.<br>
 	
 ### Application Development Analyst ( Accenture Solutions ) : Dec 2016 - Jul 2019
--	Data Design & Development on Microsoft SQL Server 2012/2008 for a global Canadian Telecom client. <br>
+-	Data Design & Development on Microsoft SQL Server for a global Canadian Telecom client. <br>
 -	Developed, & deployed data migration pipelines using SQL Server Integration Services (SSIS). <br>
 -	Implemented parameterized reports using SQL Server Reporting Services as part of Financial Reporting.<br>
--	Analysed reports to identify changes in revenue information,services usage & rating & billing validations.<br>
--	Automated daily, weekly & monthly financial reporting activities using Python, eliminating manual process of over 1 hour.<br>
--	Provided value-added analysis for month-end reporting, aimed at determining root causes of variances.<br>
+-	Analysed outgoing reports to identify changes in revenue information,services usage & billing validations & determined root causes of variances.<br>
+-	Automated daily,weekly & monthly financial reporting activities using Python, eliminating manual process of over 1 hour.<br>
 -	Fixed bad queries & performance issues , improved the turnaround time of a critical finance report from 1.5 hours to 30 mins.<br>
 -	Performed impact analysis of system jobs & implemented key performance indicators to quantify the system performance.<br>
 -	Responsible for setup and monitoring of web portal performance using Google Analytics Toolkit.<br>
