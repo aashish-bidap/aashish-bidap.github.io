@@ -14,7 +14,6 @@ classes: wide
 🏁 I'm a ...<br>
 - Data Science enthusiast with in-depth statistics, programming & engineering skills, currently pursuing my Master's in Data Analytics at Northeastern University,Boston.<br>
 - I am adept with data visualization, predictive modeling, descriptive - inferential statistics and data mining techniques and capable of implementing in-depth statistics, programming and engineering skills to interpret data to great stories.<br>
-- Well versed with data visualization, predictive modeling, descriptive - inferential statistics and data mining techniques using R, Python and SQL.<br>
 - ~ 3 years of professional work experience analysing data and driving meaning insights. <br>
 - I am quick-learner with positive attitude, ready to make immediate impact.<br>
 
