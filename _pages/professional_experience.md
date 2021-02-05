@@ -9,15 +9,14 @@ classes: wide
 ---
 
 
-### Data Analytics Intern ( Lopa Inc ) : Sept 2020 - Present
--	Enhancing data collection procedures to include information that is relevant for building analytic systems <br>
-- 	Develop automated data collection systems using Python & Google Cloud services (Google Speech to Text,Google Cloud Storage,Cloud SQL) <br>
-- 	Acquire data from primary or secondary data sources and maintain databases/data systems <br>
--	Interpret podcast advertising data, analyze results using statistical techniques and provide ongoing reports <br>
--	Processing, cleansing, and verifying the integrity of data used for analysis <br>
-- 	Transforming the raw web scraped data into action items <br>
+### Data Analytics Intern ( Lopa Inc ) : (BROOKLYN,NY) Sept 2020 - Present
+- Enhanced data collection procedures to include information relevant for building analytic systems.<br>
+- Developed automated data collection systems using Python & Google Cloud services.<br>
+- Acquired data from primary or secondary data sources and maintained databases/data systems.<br>
+- Interpreted podcast advertising data, analyze results using statistical techniques and provided ongoing reports.<br>
+- Information retrieval with web scraping and parsing RSS feeds, transforming raw web scraped data into action items.<br>
 
-### Student Consultant ( Quantum Analytica ) : Sept 2020 - Dec 2020
+### Student Consultant ( Quantum Analytica ) : (NEU) Sept 2020 - Dec 2020
 -	As part of academic program(Experiential Learning) , developed an interactive dashboard to analyse repurchasing patterns of customers for a musical ecommerce store. <br>
 -	The dashboard solution aimed towards improving the customer retention by analysing in house orders data collected over past 10 years.<br>
 -	Analysed the trends in purchases, change in repeat purchase rate over years & business from new customers vs returning customers. <br>
@@ -25,7 +24,7 @@ classes: wide
 -	Built interactive dashboard with python Streamlit app framework, data visualizations using Plotly, and deployed app over Heroku. <br>
 -	The results of the <a href='https://acb-dashboard.herokuapp.com/'>Dashboard</a> will be further used by the marketing team to initiate targeted email campaigns.<br>
 	
-### Application Development Analyst ( Accenture Solutions ) : Dec 2016 - Jul 2019
+### Application Development Analyst ( Accenture Solutions ) : (Pune,India) Dec 2016 - Jul 2019
 -	Data Design & Development on Microsoft SQL Server for a global Canadian Telecom client. <br>
 -	Developed & deployed data migration pipelines using SQL Server Integration Services (SSIS). <br>
 -	Implemented parameterized reports using SQL Server Reporting Services as part of Financial Reporting.<br>
