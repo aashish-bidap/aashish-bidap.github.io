@@ -16,7 +16,7 @@ classes: wide
 - Interpreted podcast advertising data, analyze results using statistical techniques and provided ongoing reports.<br>
 - Information retrieval with web scraping and parsing RSS feeds, transforming raw web scraped data into action items.<br>
 
-#### Student Consultant ( Quantum Analytica ) : (NEU) Sept 2020 - Dec 2020
+## Student Consultant ( Quantum Analytica ) : (NEU) Sept 2020 - Dec 2020
 -	As part of academic program(Experiential Learning) , developed an interactive dashboard to analyse repurchasing patterns of customers for a musical ecommerce store. <br>
 -	The dashboard solution aimed towards improving the customer retention by analysing in house orders data collected over past 10 years.<br>
 -	Analysed the trends in purchases, change in repeat purchase rate over years & business from new customers vs returning customers. <br>
@@ -24,7 +24,7 @@ classes: wide
 -	Built interactive dashboard with python Streamlit app framework, data visualizations using Plotly, and deployed app over Heroku. <br>
 -	The results of the <a href='https://acb-dashboard.herokuapp.com/'>Dashboard</a> will be further used by the marketing team to initiate targeted email campaigns.<br>
 	
-#### Application Development Analyst ( Accenture Solutions ) : (India) Dec 2016 - Jul 2019
+## Application Development Analyst ( Accenture Solutions ) : (India) Dec 2016 - Jul 2019
 -	Data Design & Development on Microsoft SQL Server for a global Canadian Telecom client. <br>
 -	Developed & deployed data migration pipelines using SQL Server Integration Services (SSIS). <br>
 -	Implemented parameterized reports using SQL Server Reporting Services as part of Financial Reporting.<br>
