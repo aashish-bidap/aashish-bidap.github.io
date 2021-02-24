@@ -46,6 +46,5 @@ Lately, a group of online traders collaborated on Reddit & took down the hedge f
 
 - Assumptions <br>
   - Redditors on the channel “/WallStreetBets” discuss only about stocks and option trading.<br>
-  - Top 100 trending reddit posts data is relevant enough for analysis.<br>
   - As fast-growing stocks are listed on Nasdaq, we have considered Nasdaq stocks data.<br>
 
