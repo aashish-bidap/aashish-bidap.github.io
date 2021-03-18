@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Customer Retention ANalysis for a Musical E-Commerce Firm (Quantum Analytica - Experential Learning)"
+title: "Customer Retention Analysis for a Musical E-Commerce Firm (Quantum Analytica - Experential Learning)"
 #date: 2020-08-15
 #tags: [data wrangling, data science, messy data]
 classes: wide
@@ -8,7 +8,7 @@ excerpt: "E Commerce, Transactional Data Analysis, Association Analysis,Dashboar
 mathjax: "true"
 ---
 ## Description
-### As part of academic program (Experiential Learning), provided a solution to addressing the business objective of Improving the Customer Retension for a Musical Ecommerce Firm. <br>
+As part of academic program (Experiential Learning), worked on providing a end to end solution to address the business objective of Improving the Customer Retention for a Musical Ecommerce Firm.
 
 ## Solution
 - Developed an interactive dashboard to analyse repurchasing patterns of customers by analysing in house orders data collected over past 10 years.<br>
@@ -24,10 +24,15 @@ mathjax: "true"
 
 ## Data Visualizations
 ![EDA1](/images/acb/1.png)
+<br>
 ![EDA2](/images/acb/2.png)
+<br>
 ![EDA3](/images/acb/3.png)
+<br>
 ![EDA4](/images/acb/4.png)
+<br>
 ![EDA5](/images/acb/5.png)
+<br>
 ![EDA6](/images/acb/6.png)
 
 ## Results:
