@@ -23,16 +23,23 @@ As part of academic program (Experiential Learning), worked on providing a end t
 - Heroku
 
 ## Data Visualizations
+
+**Analysis 1 : Top 10 Trending Product Categories** <br>
 ![EDA1](/images/acb/1.png)
-<br>
+
+**Analysis 2 : Change in the Repeat Purchase Rate Over 10 Years** <br>
 ![EDA2](/images/acb/2.png)
-<br>
+
+**Analysis 3 : Total Number of Orders from New Customers Vs Repeat Customers** <br>
 ![EDA3](/images/acb/3.png)
-<br>
+
+**Analysis 4 : Total Revenue from New Customers Vs Repeat Customers** <br>
 ![EDA4](/images/acb/4.png)
-<br>
+
+**Analysis 5 : Apriori Analysis** <br>
 ![EDA5](/images/acb/5.png)
-<br>
+
+**Analysis 5 : Identifying the Duration between Repeat Purchases for a Product** <br>
 ![EDA6](/images/acb/6.png)
 
 ## Results:
