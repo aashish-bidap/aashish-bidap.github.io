@@ -7,16 +7,15 @@ classes: wide
 #footer:
   #image: "/images/zakim.jpg"
 ---
+## Data Analytics Intern ( Lopa Inc ):  Dec 2020 - Mar 2021
+- Developing strategies based on insights from podcasts transcriptions and podcast data for ads and promotions.<br>
+- Text Analytics for keyword extraction & finding similar shows using podcast episode transcriptions & episode metadata.<br>
+- Developed an automated data collection execution using Python & Google Cloud services for loading data to analytic data store.<br>
+- Information retrieval by web scraping, web API endpoints, RSS feeds & further transforming data into action items.<br>
+- Implemented a relational database model to include information relevant for building analytic data store.<br>
+- Led a team of three , ensuring high quality deliverables and timely work.<br>
 
-
-## Data Analytics Intern ( Lopa Inc ): (Brooklyn,NY) Dec 2020 - Mar 2021
-- Enhanced data collection procedures to include information relevant for building analytic systems.<br>
-- Developed automated data collection systems using Python & Google Cloud services.<br>
-- Acquired data from primary or secondary data sources and maintained databases/data systems.<br>
-- Interpreted podcast advertising data, analyze results using statistical techniques and provided ongoing reports.<br>
-- Information retrieval with web scraping and parsing RSS feeds, transforming raw web scraped data into action items.<br>
-	
-## Application Development Analyst ( Accenture Solutions ): (India) Dec 2016 - Jul 2019
+## Application Development Analyst ( Accenture Solutions ):    Dec 2016 - Jul 2019
 -	Data Design & Development on Microsoft SQL Server for a global Canadian Telecom client. <br>
 -	Developed & deployed data migration pipelines using SQL Server Integration Services (SSIS). <br>
 -	Implemented parameterized reports using SQL Server Reporting Services as part of Financial Reporting.<br>
