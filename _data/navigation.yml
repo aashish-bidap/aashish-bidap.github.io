@@ -8,8 +8,6 @@ main:
     url: /professional-experience/
   - title: "Data Science Projects"
     url: /data-science/
-  - title: "HackerRank"
-    url: https://www.hackerrank.com/ashubidap
   - title: "Tableau"
     url: https://public.tableau.com/profile/ashishbidap#!/
   # - title: "Sample Collections"
