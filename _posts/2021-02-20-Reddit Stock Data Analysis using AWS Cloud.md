@@ -22,7 +22,7 @@ Lately, a group of online traders collaborated on Reddit & took down the hedge f
 - Data Analysis
 - Interactive Dashboard Visualization
 
-- Try the Application here : <a href="http://redstocks.com.s3-website-us-east-1.amazonaws.com/"> Project Demo </a> 
+- AWS Stack
   - Amazon Lex : Chatbot user interface to easy access.<br>
   - AWS Lambda : Lambda Triggers to collect data from Reddit upon specific Lex Intent.<br>
   - Amazon S3 : Storage of the Output files [reddit scrapped data & nasdaq stock data] <br>
