@@ -18,11 +18,11 @@ classes: wide
 - I am a quick-learner with positive attitude, ready to make immediate impact.<br>
 
 💻 Tech Stack ...<br>
-- Languages: Python, SQL, R, C++ <br>
-- Machine Learning Concepts: Regression, Clustering, Classification, Ensemble methods, Neural Networks, Natural Language Processing <br>
-- Libraries/Packages: numpy, pandas, tensorflow, keras, matplotlib, seaborn, plotly, beautifulsoap, nltk, scikitlearn,SHAP<br>
-- Databases: Microsoft SQL Server, MySQL<br>
-- Cloud: Amazon Web Services <br>
-- Big Data: Databricks, Spark, Apache Parquet, PySpark, Spark SQL <br>
-- Web Frameworks: Django, Tkinter, Streamlit <br>
+- Languages: Python,SQL,R,C++ <br>
+- Machine Learning Concepts: Regression,Clustering, Classification,Ensemble methods,Neural Networks,NLP <br>
+- Libraries/Packages: numpy, pandas, tensorflow,keras,plotly,nltk,scikitlearn,SHAP<br>
+- Databases: Microsoft SQL Server,MySQL<br>
+- Cloud: Amazon Web Services<br>
+- Big Data: Databricks,Spark,Apache Parquet,PySpark,Spark SQL<br>
+- Web Frameworks: Django,Tkinter,Streamlit<br>
 <br>
