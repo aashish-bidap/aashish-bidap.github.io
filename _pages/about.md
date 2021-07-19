@@ -28,6 +28,4 @@ classes: wide
 - Web Frameworks: Django,Tkinter,Streamlit<br>
 <br>
 
-<p>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ee0e0082-0e70-469b-9163-d644e833f478" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</p>
+<div data-iframe-width="180" data-iframe-height="270" data-share-badge-id="ee0e0082-0e70-469b-9163-d644e833f478" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
