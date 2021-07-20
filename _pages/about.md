@@ -9,7 +9,7 @@ classes: wide
 ---
 
 🔭 I’m currently ...
-- Looking for Full Time opportunities starting in Data Analytics.<br>
+- Looking for full time opportunities in Data Analytics.<br>
 
 🏁 I'm a ...
 - Data Science enthusiast with in-depth statistics, programming & engineering skills to interpret data to stories.<br>
