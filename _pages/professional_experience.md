@@ -9,15 +9,15 @@ classes: wide
 ---
 #### Data Analyst ( Altice USA,New York ): Sept 2021 - Present
 
-- <font size="3">Advised a media client on user acquisition, marketing analytics and improved marketing channel ROI.</font><br>
-- <font size="3">Developed multi-touch attribution data model & established business KPI’s to measure ad campaign effectiveness that helped optimize marketing spend.</font><br>
-- <font size="3">Performed causal inference using synthetic control generation for incrementality measurement of ad campaigns.</font><br>
-- <font size="3">Leveraged advanced statistical techniques to analyse trends in viewership behaviour for audience segmentation.</font><br>
-- <font size="3">Optimized audience matching data pipeline for high dimensional attributes & increased response time by 65%.</font><br>
-- <font size="3">Worked closely with data scientists to identify data needs and testing supervised machine learning models.</font><br>
-- <font size="3">Designed & maintained 12 self-serve dashboards that empowered stakeholders to drive real time optimizations.</font><br>
-- <font size="3">Built necessary data pipelines to power automation that eliminated manual intervention of 3 hours.</font><br>
-- <font size="3">Led a summer intern towards acheiving their goals and thereby helping them to develop their skills.</font><br>
+- <font size="3">Advised a media client on user acquisition, marketing analytics and improved marketing channel ROI.</font>
+- <font size="3">Developed multi-touch attribution data model & established business KPI’s to measure ad campaign effectiveness that helped optimize marketing spend.</font>
+- <font size="3">Performed causal inference using synthetic control generation for incrementality measurement of ad campaigns.</font>
+- <font size="3">Leveraged advanced statistical techniques to analyse trends in viewership behaviour for audience segmentation.</font>
+- <font size="3">Optimized audience matching data pipeline for high dimensional attributes & increased response time by 65%.</font>
+- <font size="3">Worked closely with data scientists to identify data needs and testing supervised machine learning models.</font>
+- <font size="3">Designed & maintained 12 self-serve dashboards that empowered stakeholders to drive real time optimizations.</font>
+- <font size="3">Built necessary data pipelines to power automation that eliminated manual intervention of 3 hours.</font>
+- <font size="3">Led a summer intern towards acheiving their goals and thereby helping them to develop their skills.</font>
 
 #### Data Analytics Intern ( Lopa Inc,New York ): Dec 2020 - Apr 2021
 - <font size="3">Developing strategies based on insights from podcasts transcriptions and podcast data for host read ads.</font><br>
