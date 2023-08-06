@@ -7,7 +7,8 @@ classes: wide
 #footer:
   #image: "/images/zakim.jpg"
 ---
-### Data Analyst ( Altice USA,New York ): Sept 2021 - Present
+#### Data Analyst ( Altice USA,New York ): Sept 2021 - Present
+<font size="8">
 - Advised a media client on user acquisition, marketing analytics and improved marketing channel ROI.<br>
 - Developed multi-touch attribution data model & established business KPI’s to measure ad campaign effectiveness that helped optimize marketing spend.<br>
 - Performed causal inference using synthetic control generation for incrementality measurement of ad campaigns.<br>
@@ -17,8 +18,9 @@ classes: wide
 - Designed & maintained 12 self-serve dashboards that empowered stakeholders to drive real time optimizations.<br>
 - Built necessary data pipelines to power automation that eliminated manual intervention of 3 hours.<br>
 - Led a summer intern towards acheiving their goals and thereby helping them to develop their skills.<br>
+</font>
 
-### Data Analytics Intern ( Lopa Inc,New York ): Dec 2020 - Apr 2021
+#### Data Analytics Intern ( Lopa Inc,New York ): Dec 2020 - Apr 2021
 - Developing strategies based on insights from podcasts transcriptions and podcast data for host read ads.<br>
 - Text Analytics to derive insights from large podcast episode transcriptions data with Spark big data processing.<br>
 - Built a data collection workflow using Python & Google Cloud (Speech To Text, Cloud Storage, MySQL) for loading data to data store.<br>
@@ -26,7 +28,7 @@ classes: wide
 - Implemented a relational database model to include information relevant for building analytic data store.<br>
 - Led a team of three , ensuring high quality deliverables and timely work.<br>
 
-### Business Intelligence Analyst ( Accenture Solutions,Indiass ): Dec 2016 - Jul 2019
+#### Business Intelligence Analyst ( Accenture Solutions,India ): Dec 2016 - Jul 2019
 - Deployed reporting solutions over ~5M active subscriber base for a Telecom client to make business decisions.<br>
 - Designed Business Intelligence reports using SSRS and implemented SSIS ETL pipelines for finance & ad-hoc reporting.<br>
 - Coordinated with client to gather requirements to build BI reports for monitoring revenue and service usage.<br>
