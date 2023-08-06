@@ -8,16 +8,16 @@ classes: wide
   #image: "/images/zakim.jpg"
 ---
 #### Data Analyst ( Altice USA,New York ): Sept 2021 - Present
-<font size="8">
-- Advised a media client on user acquisition, marketing analytics and improved marketing channel ROI.<br>
-- Developed multi-touch attribution data model & established business KPI’s to measure ad campaign effectiveness that helped optimize marketing spend.<br>
-- Performed causal inference using synthetic control generation for incrementality measurement of ad campaigns.<br>
-- Leveraged advanced statistical techniques to analyse trends in viewership behaviour for audience segmentation.<br>
-- Optimized audience matching data pipeline for high dimensional attributes & increased response time by 65%.<br>
-- Worked closely with data scientists to identify data needs and testing supervised machine learning models.<br>
-- Designed & maintained 12 self-serve dashboards that empowered stakeholders to drive real time optimizations.<br>
-- Built necessary data pipelines to power automation that eliminated manual intervention of 3 hours.<br>
-- Led a summer intern towards acheiving their goals and thereby helping them to develop their skills.<br>
+
+- <font size="4">Advised a media client on user acquisition, marketing analytics and improved marketing channel ROI.<br></font>
+- <font size="4">Developed multi-touch attribution data model & established business KPI’s to measure ad campaign effectiveness that helped optimize marketing spend.<br></font>
+- <font size="4">Performed causal inference using synthetic control generation for incrementality measurement of ad campaigns.<br></font>
+- <font size="4">Leveraged advanced statistical techniques to analyse trends in viewership behaviour for audience segmentation.<br></font>
+- <font size="4">Optimized audience matching data pipeline for high dimensional attributes & increased response time by 65%.<br></font>
+- <font size="4">Worked closely with data scientists to identify data needs and testing supervised machine learning models.<br></font>
+- <font size="4">Designed & maintained 12 self-serve dashboards that empowered stakeholders to drive real time optimizations.<br></font>
+- <font size="4">Built necessary data pipelines to power automation that eliminated manual intervention of 3 hours.<br></font>
+- <font size="4">Led a summer intern towards acheiving their goals and thereby helping them to develop their skills.<br>
 </font>
 
 #### Data Analytics Intern ( Lopa Inc,New York ): Dec 2020 - Apr 2021
