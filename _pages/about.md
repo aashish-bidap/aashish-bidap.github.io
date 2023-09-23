@@ -16,7 +16,7 @@ classes: wide
 
 🎓 Education...
 - <font size="3">Master's in Data Analytics - Northeastern University, Boston,US </font>
-- <font size="3">Bachelor's in Computer Engineering - University of Pune, India </font><
+- <font size="3">Bachelor's in Computer Engineering - University of Pune, India </font>
 
 💻 Tech Stack ...
 - <font size="3">Data Analysis : SQL, Python, Bash, Advanced Excel </font>
