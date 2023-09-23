@@ -1,14 +1,14 @@
----
+	---
 layout: single
-title: "Image Sorter Application"
+title: "Image Organizer App using Machine Learning"
 #date: 2020-08-15
 #tags: [data wrangling, data science, messy data]
 classes: wide
-excerpt: "Machine Learning,Transfer Learning,Image Processing, Python ,App Development"
+excerpt: "Machine Learning, Transfer Learning, Image Processing, Python "
 mathjax: "true"
 ---
 ## Description
-An image browsing application which allows an automatic sorting of images. The python app sorts the Dog Images based on the image position(sideways or upright) using Convolutional Neural Network and Transfer Learning.
+An image browsing application which allows automatic sorting of images to eliiminate the human validation of verifying each image individualy. The python app sorts the Dog Images based on the image position(sideways or upright) using Convolutional Neural Network and Transfer Learning.
 
 ![alt text](/images/Image_Sorter_App/App-UI-Screenshot.png)
 

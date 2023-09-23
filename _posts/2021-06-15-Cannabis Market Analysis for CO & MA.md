@@ -12,7 +12,7 @@ mathjax: "true"
 The global cannabis market size was valued at USD 10.60 billion in 2018 and is projected to reach USD 97.35 billion by the end of 2026.
 Considering this growing industry,the cannatech industry is developing software solutions targeted at improving the day-to-day operations of cannabis brands, manufacturers, distributors, and retailers. Data Analytics can help cannabis businesses accurately determine which products to develop and segments of the market in which to position them.<br> 
 
-Our data analysis focusses towards the emerging cannabis market of Colorado & Massachusetts and delivers an end to end data driven dashboarding solution which can be used by the dispensary executives for market research.
+My data analysis focusses towards the emerging cannabis market of Colorado & Massachusetts and delivers an end to end data driven dashboarding solution which can be used by the dispensary executives for market research.
 
 ## Data Insights that were analyzed
 - Identifying majorly sold Product Categories
@@ -44,7 +44,7 @@ Implemented the below mentioned ML models:<br>
 - Random Forest Classifier 
 - Gradient Boosting Classfier
 
-Based on the model's performance validation, Random Forest outperformed the other models with a testing accuracy of 74.5%.The model predictions where further used to impute the missing values under the product categories attribte in the products data.
+Based on the model's performance validation, Random Forest outperformed the other models with a testing accuracy of 74.5%.The model predictions where further used to impute the missing values under the product categories attribute in the products data.
 
 ![NLP Architecture](/images/cannabis/nlp.png)
 
