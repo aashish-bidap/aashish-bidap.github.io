@@ -1,7 +1,7 @@
 ---
 layout: posts
 permalink: /data-science/
-title: "Data Analysis and Machine Learning projects"
+title: "Machine Learning & Data Engineering Projects"
 author_profile: true
 classes : wide
 header:

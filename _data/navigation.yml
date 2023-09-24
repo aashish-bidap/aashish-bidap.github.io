@@ -6,7 +6,7 @@ main:
     url: /about/
   - title : "Experience"
     url: /professional-experience/
-  - title: "Data Science Projects"
+  - title: "Projects"
     url: /data-science/
   - title: "Tableau"
     url: https://public.tableau.com/profile/ashishbidap#!/
